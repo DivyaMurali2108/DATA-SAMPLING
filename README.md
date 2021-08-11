@@ -1,1 +1,2 @@
-# DATA-SAMPLING
+# Data-Sampling
+A simple python program
